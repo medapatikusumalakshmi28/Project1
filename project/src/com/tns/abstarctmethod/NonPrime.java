@@ -18,6 +18,7 @@ package com.tns.abstarctmethod;
 	@Override
 	public void deliveryCharges(int amt) {
 		// TODO Auto-generated method stub
+		System.out.println("the amount is"+amt);
 		
 	}
 	
